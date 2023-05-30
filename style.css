@@ -1,4 +1,16 @@
 :root {
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.topContainer {
+  background-image: url("./assets/FirstBG.png");
+  background-size: cover;
+}
+
+.midContainer {
+  background-image: url("./assets/middleBG.png");
+  background-size: cover;
 }
